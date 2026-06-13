@@ -49,7 +49,7 @@ Welcome to my digital headquarters. I am a Sovereign Devpreneur, building high-s
         
         <div style="display: flex; justify-content: space-between; background-color: #161b22; padding: 1rem; border-radius: 8px; margin-bottom: 1.5rem;">
             <div style="text-align: center;"><strong>9</strong><br><span style="font-size: 0.8rem; opacity: 0.7;">Repos</span></div>
-            <div style="text-align: center;"><strong>71</strong><br><span style="font-size: 0.8rem; opacity: 0.7;">Followers</span></div>
+            <div style="text-align: center;"><strong>70</strong><br><span style="font-size: 0.8rem; opacity: 0.7;">Followers</span></div>
             <div style="text-align: center;"><strong>Hacker</strong><br><span style="font-size: 0.8rem; opacity: 0.7;">Archetype</span></div>
         </div>
         
