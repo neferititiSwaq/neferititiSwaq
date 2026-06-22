@@ -34,7 +34,7 @@ Welcome to my digital headquarters. I am a Sovereign Devpreneur, building high-s
             </div>
         </div>
         
-        <p style="font-style: italic; opacity: 0.9; margin-bottom: 1.5rem;">"Maria is an enthusiastic learner with an entrepreneurial spirit, keen on applying her developing web skills to personal branding and business ideas."</p>
+        <p style="font-style: italic; opacity: 0.9; margin-bottom: 1.5rem;">"Maria is an enthusiastic and entrepreneurial learner, actively building basic web applications and exploring business ideas."</p>
         
         <div style="display: flex; gap: 1rem; margin-bottom: 1.5rem; flex-wrap: wrap;">
             <style>
@@ -44,7 +44,7 @@ Welcome to my digital headquarters. I am a Sovereign Devpreneur, building high-s
                 .repo p { margin: 0 0 0.5rem 0; font-size: 0.85rem; opacity: 0.8; }
                 .repo-meta { font-size: 0.8rem; opacity: 0.7; }
             </style>
-            <span class='badge'>JavaScript</span><span class='badge'>HTML</span><span class='badge'>Web Development</span><span class='badge'>Git</span>
+            <span class='badge'>JavaScript</span><span class='badge'>HTML</span><span class='badge'>Web Development</span>
         </div>
         
         <div style="display: flex; justify-content: space-between; background-color: #ffffff; padding: 1rem; border-radius: 8px; margin-bottom: 1.5rem;">
@@ -75,7 +75,7 @@ Welcome to my digital headquarters. I am a Sovereign Devpreneur, building high-s
     
         
         <div style="margin-top: 1.5rem; font-size: 0.85rem; opacity: 0.8; background-color: #ffffff; padding: 0.8rem; border-radius: 8px; border-left: 3px solid #0969da;">
-            <strong>Fun Fact:</strong> Maria seems to have a flair for fashion and entrepreneurship, having built projects for multiple clothing brands.
+            <strong>Fun Fact:</strong> Maria shows an early entrepreneurial spirit, with multiple projects hinting at building her own 'NSK' brand, including a clothing line.
         </div>
         
         <div style="margin-top: 1.5rem; text-align: center; font-size: 0.75rem; font-weight: bold; letter-spacing: 1px; color: #0969da; opacity: 0.9; text-transform: uppercase;">
