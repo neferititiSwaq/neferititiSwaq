@@ -34,7 +34,7 @@ Welcome to my digital headquarters. I am a Sovereign Devpreneur, building high-s
             </div>
         </div>
         
-        <p style="font-style: italic; opacity: 0.9; margin-bottom: 1.5rem;">"Maria is an enthusiastic and hands-on learner, actively building various web projects and exploring entrepreneurial ideas."</p>
+        <p style="font-style: italic; opacity: 0.9; margin-bottom: 1.5rem;">"Maria is an enthusiastic and entrepreneurial developer who enjoys exploring diverse project ideas, from personal branding to business concepts, driven by a passion for continuous learning."</p>
         
         <div style="display: flex; gap: 1rem; margin-bottom: 1.5rem; flex-wrap: wrap;">
             <style>
@@ -44,7 +44,7 @@ Welcome to my digital headquarters. I am a Sovereign Devpreneur, building high-s
                 .repo p { margin: 0 0 0.5rem 0; font-size: 0.85rem; opacity: 0.8; }
                 .repo-meta { font-size: 0.8rem; opacity: 0.7; }
             </style>
-            <span class='badge'>JavaScript</span><span class='badge'>HTML</span><span class='badge'>Web Development</span>
+            <span class='badge'>JavaScript</span><span class='badge'>Web Development</span><span class='badge'>Entrepreneurship</span>
         </div>
         
         <div style="display: flex; justify-content: space-between; background-color: #ffffff; padding: 1rem; border-radius: 8px; margin-bottom: 1.5rem;">
@@ -75,7 +75,7 @@ Welcome to my digital headquarters. I am a Sovereign Devpreneur, building high-s
     
         
         <div style="margin-top: 1.5rem; font-size: 0.85rem; opacity: 0.8; background-color: #ffffff; padding: 0.8rem; border-radius: 8px; border-left: 3px solid #0969da;">
-            <strong>Fun Fact:</strong> With multiple projects related to clothing brands and a 'Devpreneur' profile, Maria seems to be laying the groundwork for a future digital empire.
+            <strong>Fun Fact:</strong> Maria seems to have a keen interest in conceptualizing and building clothing brands, with two distinct fashion-related repositories.
         </div>
         
         <div style="margin-top: 1.5rem; text-align: center; font-size: 0.75rem; font-weight: bold; letter-spacing: 1px; color: #0969da; opacity: 0.9; text-transform: uppercase;">
