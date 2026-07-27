@@ -34,7 +34,7 @@ Welcome to my digital headquarters. I am a Sovereign Devpreneur, building high-s
             </div>
         </div>
         
-        <p style="font-style: italic; opacity: 0.9; margin-bottom: 1.5rem;">"Maria comes across as an enthusiastic and aspiring 'devpreneur' who enjoys learning and applying web development skills to personal projects."</p>
+        <p style="font-style: italic; opacity: 0.9; margin-bottom: 1.5rem;">"Maria exhibits a driven and entrepreneurial spirit, constantly learning and applying web development skills to build personal brands and impactful socio-economic projects."</p>
         
         <div style="display: flex; gap: 1rem; margin-bottom: 1.5rem; flex-wrap: wrap;">
             <style>
@@ -44,11 +44,11 @@ Welcome to my digital headquarters. I am a Sovereign Devpreneur, building high-s
                 .repo p { margin: 0 0 0.5rem 0; font-size: 0.85rem; opacity: 0.8; }
                 .repo-meta { font-size: 0.8rem; opacity: 0.7; }
             </style>
-            <span class='badge'>JavaScript</span><span class='badge'>HTML</span><span class='badge'>Web Development</span><span class='badge'>Project Planning</span>
+            <span class='badge'>JavaScript</span><span class='badge'>HTML</span><span class='badge'>Web Development</span><span class='badge'>Branding</span>
         </div>
         
         <div style="display: flex; justify-content: space-between; background-color: #ffffff; padding: 1rem; border-radius: 8px; margin-bottom: 1.5rem;">
-            <div style="text-align: center;"><strong>9</strong><br><span style="font-size: 0.8rem; opacity: 0.7;">Repos</span></div>
+            <div style="text-align: center;"><strong>10</strong><br><span style="font-size: 0.8rem; opacity: 0.7;">Repos</span></div>
             <div style="text-align: center;"><strong>71</strong><br><span style="font-size: 0.8rem; opacity: 0.7;">Followers</span></div>
             <div style="text-align: center;"><strong>Builder</strong><br><span style="font-size: 0.8rem; opacity: 0.7;">Archetype</span></div>
         </div>
@@ -68,14 +68,14 @@ Welcome to my digital headquarters. I am a Sovereign Devpreneur, building high-s
         </div>
     
         <div class="repo">
-            <h4>neferititiswaq-neferititiswaq</h4>
-            <p>NSK Devpreneur Sovereign Profile.</p>
-            <div class="repo-meta">⭐ 0 | 💻 Unknown</div>
+            <h4>nsk-website-v2</h4>
+            <p>Digital Scaffolding for Africa's Sovereign Economic Future.</p>
+            <div class="repo-meta">⭐ 0 | 💻 JavaScript</div>
         </div>
     
         
         <div style="margin-top: 1.5rem; font-size: 0.85rem; opacity: 0.8; background-color: #ffffff; padding: 0.8rem; border-radius: 8px; border-left: 3px solid #0969da;">
-            <strong>Fun Fact:</strong> Maria seems to have an interest in entrepreneurship, specifically around clothing brands, judging by the themes of several of her repositories.
+            <strong>Fun Fact:</strong> Maria is not just building websites; she's digitally scaffolding Africa's sovereign economic future, one clothing brand at a time.
         </div>
         
         <div style="margin-top: 1.5rem; text-align: center; font-size: 0.75rem; font-weight: bold; letter-spacing: 1px; color: #0969da; opacity: 0.9; text-transform: uppercase;">
