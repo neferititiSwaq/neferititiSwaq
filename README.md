@@ -34,7 +34,7 @@ Welcome to my digital headquarters. I am a Sovereign Devpreneur, building high-s
             </div>
         </div>
         
-        <p style="font-style: italic; opacity: 0.9; margin-bottom: 1.5rem;">"Maria exhibits a driven and entrepreneurial spirit, constantly learning and applying web development skills to build personal brands and impactful socio-economic projects."</p>
+        <p style="font-style: italic; opacity: 0.9; margin-bottom: 1.5rem;">"Maria is an ambitious 'devpreneur' driven by a strong desire to learn and build impactful projects, aiming for significant social and economic contributions."</p>
         
         <div style="display: flex; gap: 1rem; margin-bottom: 1.5rem; flex-wrap: wrap;">
             <style>
@@ -44,7 +44,7 @@ Welcome to my digital headquarters. I am a Sovereign Devpreneur, building high-s
                 .repo p { margin: 0 0 0.5rem 0; font-size: 0.85rem; opacity: 0.8; }
                 .repo-meta { font-size: 0.8rem; opacity: 0.7; }
             </style>
-            <span class='badge'>JavaScript</span><span class='badge'>HTML</span><span class='badge'>Web Development</span><span class='badge'>Branding</span>
+            <span class='badge'>JavaScript</span><span class='badge'>HTML</span><span class='badge'>Git</span>
         </div>
         
         <div style="display: flex; justify-content: space-between; background-color: #ffffff; padding: 1rem; border-radius: 8px; margin-bottom: 1.5rem;">
@@ -75,7 +75,7 @@ Welcome to my digital headquarters. I am a Sovereign Devpreneur, building high-s
     
         
         <div style="margin-top: 1.5rem; font-size: 0.85rem; opacity: 0.8; background-color: #ffffff; padding: 0.8rem; border-radius: 8px; border-left: 3px solid #0969da;">
-            <strong>Fun Fact:</strong> Maria is not just building websites; she's digitally scaffolding Africa's sovereign economic future, one clothing brand at a time.
+            <strong>Fun Fact:</strong> Maria's ambition is evident in her project aiming to create 'Digital Scaffolding for Africa's Sovereign Economic Future,' truly embodying the 'devpreneur' spirit.
         </div>
         
         <div style="margin-top: 1.5rem; text-align: center; font-size: 0.75rem; font-weight: bold; letter-spacing: 1px; color: #0969da; opacity: 0.9; text-transform: uppercase;">
