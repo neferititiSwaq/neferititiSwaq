@@ -34,7 +34,7 @@ Welcome to my digital headquarters. I am a Sovereign Devpreneur, building high-s
             </div>
         </div>
         
-        <p style="font-style: italic; opacity: 0.9; margin-bottom: 1.5rem;">"Maria is an enthusiastic builder with an entrepreneurial spirit, focused on learning and creating projects with a vision for future impact."</p>
+        <p style="font-style: italic; opacity: 0.9; margin-bottom: 1.5rem;">"Maria is an ambitious and entrepreneurial developer who is actively learning and applying her skills to projects with a strong focus on personal branding and social impact."</p>
         
         <div style="display: flex; gap: 1rem; margin-bottom: 1.5rem; flex-wrap: wrap;">
             <style>
@@ -44,7 +44,7 @@ Welcome to my digital headquarters. I am a Sovereign Devpreneur, building high-s
                 .repo p { margin: 0 0 0.5rem 0; font-size: 0.85rem; opacity: 0.8; }
                 .repo-meta { font-size: 0.8rem; opacity: 0.7; }
             </style>
-            <span class='badge'>Web Development</span><span class='badge'>Entrepreneurship</span><span class='badge'>Front-end Development</span>
+            <span class='badge'>Web Development</span><span class='badge'>JavaScript</span><span class='badge'>Entrepreneurial Mindset</span>
         </div>
         
         <div style="display: flex; justify-content: space-between; background-color: #ffffff; padding: 1rem; border-radius: 8px; margin-bottom: 1.5rem;">
@@ -75,7 +75,7 @@ Welcome to my digital headquarters. I am a Sovereign Devpreneur, building high-s
     
         
         <div style="margin-top: 1.5rem; font-size: 0.85rem; opacity: 0.8; background-color: #ffffff; padding: 0.8rem; border-radius: 8px; border-left: 3px solid #0969da;">
-            <strong>Fun Fact:</strong> Maria is not just coding; she's actively building a digital ecosystem, from websites to clothing brands, with a profound vision for Africa's economic future.
+            <strong>Fun Fact:</strong> Despite declaring herself an 'avid learner,' Maria's projects reveal an ambitious vision to contribute to 'Africa's Sovereign Economic Future' with her 'NSK Devpreneur Sovereign Profile.'
         </div>
         
         <div style="margin-top: 1.5rem; text-align: center; font-size: 0.75rem; font-weight: bold; letter-spacing: 1px; color: #0969da; opacity: 0.9; text-transform: uppercase;">
