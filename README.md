@@ -34,7 +34,7 @@ Welcome to my digital headquarters. I am a Sovereign Devpreneur, building high-s
             </div>
         </div>
         
-        <p style="font-style: italic; opacity: 0.9; margin-bottom: 1.5rem;">"Maria appears to be an entrepreneurial and socially conscious developer, driven by learning and building projects with a focus on impact and personal branding."</p>
+        <p style="font-style: italic; opacity: 0.9; margin-bottom: 1.5rem;">"Maria is an ambitious and learning-driven individual with an entrepreneurial spirit, focused on building digital presences and impactful projects."</p>
         
         <div style="display: flex; gap: 1rem; margin-bottom: 1.5rem; flex-wrap: wrap;">
             <style>
@@ -44,7 +44,7 @@ Welcome to my digital headquarters. I am a Sovereign Devpreneur, building high-s
                 .repo p { margin: 0 0 0.5rem 0; font-size: 0.85rem; opacity: 0.8; }
                 .repo-meta { font-size: 0.8rem; opacity: 0.7; }
             </style>
-            <span class='badge'>Web Development</span><span class='badge'>Front-end Development</span><span class='badge'>Entrepreneurship</span>
+            <span class='badge'>Web Development</span><span class='badge'>JavaScript</span><span class='badge'>HTML</span><span class='badge'>Entrepreneurship</span><span class='badge'>Brand Development</span>
         </div>
         
         <div style="display: flex; justify-content: space-between; background-color: #ffffff; padding: 1rem; border-radius: 8px; margin-bottom: 1.5rem;">
@@ -75,7 +75,7 @@ Welcome to my digital headquarters. I am a Sovereign Devpreneur, building high-s
     
         
         <div style="margin-top: 1.5rem; font-size: 0.85rem; opacity: 0.8; background-color: #ffffff; padding: 0.8rem; border-radius: 8px; border-left: 3px solid #0969da;">
-            <strong>Fun Fact:</strong> Maria describes herself as a 'Devpreneur' and is working on 'Digital Scaffolding for Africa's Sovereign Economic Future,' indicating a strong drive to combine technology with impactful business ventures.
+            <strong>Fun Fact:</strong> Despite her bio as an 'avid learner', Maria seems to be actively exploring entrepreneurial ventures, having started multiple clothing brand projects and even a 'digital scaffolding' initiative.
         </div>
         
         <div style="margin-top: 1.5rem; text-align: center; font-size: 0.75rem; font-weight: bold; letter-spacing: 1px; color: #0969da; opacity: 0.9; text-transform: uppercase;">
