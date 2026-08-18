@@ -16,44 +16,44 @@ Welcome to my digital headquarters. I am a Sovereign Devpreneur, building high-s
 
     <div class="dev-card" style="
         font-family: 'Inter', sans-serif;
-        background-color: #0d1117;
-        color: #c9d1d9;
+        background-color: #f6f8fa;
+        color: #24292f;
         padding: 2rem;
         border-radius: 12px;
         max-width: 500px;
         margin: 0 auto;
         box-shadow: 0 10px 30px rgba(0,0,0,0.2);
-        border: 1px solid #00ff0033;
+        border: 1px solid #0969da33;
         transition: transform 0.3s ease;
     ">
         <div style="display: flex; align-items: center; margin-bottom: 1.5rem;">
-            <img src="https://avatars.githubusercontent.com/u/142839324?v=4" alt="neferititiswaq" style="width: 80px; height: 80px; border-radius: 50%; border: 2px solid #00ff00; margin-right: 1.5rem;">
+            <img src="https://avatars.githubusercontent.com/u/142839324?v=4" alt="neferititiswaq" style="width: 80px; height: 80px; border-radius: 50%; border: 2px solid #0969da; margin-right: 1.5rem;">
             <div>
                 <h2 style="margin: 0; font-size: 1.5rem;">Maria</h2>
-                <a href="https://github.com/neferititiswaq" target="_blank" style="color: #00ff00; text-decoration: none;">@neferititiswaq</a>
+                <a href="https://github.com/neferititiswaq" target="_blank" style="color: #0969da; text-decoration: none;">@neferititiswaq</a>
             </div>
         </div>
         
-        <p style="font-style: italic; opacity: 0.9; margin-bottom: 1.5rem;">"An enigmatic coder."</p>
+        <p style="font-style: italic; opacity: 0.9; margin-bottom: 1.5rem;">"Maria is an enthusiastic learner with an entrepreneurial drive, actively building web projects that blend personal interests with social and commercial aspirations."</p>
         
         <div style="display: flex; gap: 1rem; margin-bottom: 1.5rem; flex-wrap: wrap;">
             <style>
-                .badge { background-color: #00ff0022; color: #00ff00; padding: 0.2rem 0.6rem; border-radius: 12px; font-size: 0.8rem; font-weight: 600; border: 1px solid #00ff0055; }
-                .repo { background-color: #161b22; padding: 1rem; border-radius: 8px; margin-bottom: 0.5rem; border: 1px solid #00ff0022; }
-                .repo h4 { margin: 0 0 0.5rem 0; color: #00ff00; }
+                .badge { background-color: #0969da22; color: #0969da; padding: 0.2rem 0.6rem; border-radius: 12px; font-size: 0.8rem; font-weight: 600; border: 1px solid #0969da55; }
+                .repo { background-color: #ffffff; padding: 1rem; border-radius: 8px; margin-bottom: 0.5rem; border: 1px solid #0969da22; }
+                .repo h4 { margin: 0 0 0.5rem 0; color: #0969da; }
                 .repo p { margin: 0 0 0.5rem 0; font-size: 0.85rem; opacity: 0.8; }
                 .repo-meta { font-size: 0.8rem; opacity: 0.7; }
             </style>
-            <span class='badge'>Code</span><span class='badge'>Logic</span><span class='badge'>Mystery</span>
+            <span class='badge'>Web Development</span><span class='badge'>JavaScript</span><span class='badge'>Branding/E-commerce</span>
         </div>
         
-        <div style="display: flex; justify-content: space-between; background-color: #161b22; padding: 1rem; border-radius: 8px; margin-bottom: 1.5rem;">
+        <div style="display: flex; justify-content: space-between; background-color: #ffffff; padding: 1rem; border-radius: 8px; margin-bottom: 1.5rem;">
             <div style="text-align: center;"><strong>10</strong><br><span style="font-size: 0.8rem; opacity: 0.7;">Repos</span></div>
             <div style="text-align: center;"><strong>72</strong><br><span style="font-size: 0.8rem; opacity: 0.7;">Followers</span></div>
-            <div style="text-align: center;"><strong>Hacker</strong><br><span style="font-size: 0.8rem; opacity: 0.7;">Archetype</span></div>
+            <div style="text-align: center;"><strong>Builder</strong><br><span style="font-size: 0.8rem; opacity: 0.7;">Archetype</span></div>
         </div>
         
-        <h3 style="margin-top: 0; margin-bottom: 1rem; font-size: 1.1rem; border-bottom: 1px solid #00ff0033; padding-bottom: 0.5rem;">Top Respositories</h3>
+        <h3 style="margin-top: 0; margin-bottom: 1rem; font-size: 1.1rem; border-bottom: 1px solid #0969da33; padding-bottom: 0.5rem;">Top Respositories</h3>
         
         <div class="repo">
             <h4>fictiticious-clothing-brand</h4>
@@ -74,11 +74,11 @@ Welcome to my digital headquarters. I am a Sovereign Devpreneur, building high-s
         </div>
     
         
-        <div style="margin-top: 1.5rem; font-size: 0.85rem; opacity: 0.8; background-color: #161b22; padding: 0.8rem; border-radius: 8px; border-left: 3px solid #00ff00;">
-            <strong>Fun Fact:</strong> Their code speaks louder than their bio.
+        <div style="margin-top: 1.5rem; font-size: 0.85rem; opacity: 0.8; background-color: #ffffff; padding: 0.8rem; border-radius: 8px; border-left: 3px solid #0969da;">
+            <strong>Fun Fact:</strong> Maria demonstrates a keen interest in digital entrepreneurship, having conceptualized multiple 'clothing brand' projects while also developing solutions aimed at societal impact in Africa.
         </div>
         
-        <div style="margin-top: 1.5rem; text-align: center; font-size: 0.75rem; font-weight: bold; letter-spacing: 1px; color: #00ff00; opacity: 0.9; text-transform: uppercase;">
+        <div style="margin-top: 1.5rem; text-align: center; font-size: 0.75rem; font-weight: bold; letter-spacing: 1px; color: #0969da; opacity: 0.9; text-transform: uppercase;">
             Forged by the NSK Sovereign Architect
         </div>
     </div>
